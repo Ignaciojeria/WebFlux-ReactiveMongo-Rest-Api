@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: # add your mongoDB cloud connection String
